@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "760275148694",
+    "firebase_url": "https://endsemlab1-default-rtdb.firebaseio.com",
+    "project_id": "endsemlab1",
+    "storage_bucket": "endsemlab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760275148694:android:f7dbdf31cc4c19c2c387b7",
+        "android_client_info": {
+          "package_name": "com.example.end_sem_lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJERfWyNCmF003Vr6ATpgD69Dzd0MX_yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760275148694:android:c10ec0df3b215fd6c387b7",
+        "android_client_info": {
+          "package_name": "com.example.end_sem_lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJERfWyNCmF003Vr6ATpgD69Dzd0MX_yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
